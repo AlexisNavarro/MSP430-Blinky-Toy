@@ -1,7 +1,7 @@
 # MSP430-Blinky-Toy
 For your second project, your task is to use the MSP430 Microcontroller and your creativity to design a toy. Each MSP430 board is equipped with buttons, LED's, a speaker, and an LED screen. Utilizing these features and your knowledge of I/O, develop a program to turn the board into a toy.
 
-This toy should at minimum:
+This toy should:
 
 * generate sounds,
 * dynamically change the LEDs that are illuminated, both brighly and dimmly,
