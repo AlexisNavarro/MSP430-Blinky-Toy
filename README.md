@@ -15,10 +15,3 @@ This toy should at minimum:
 Inside this repository you will find two directories:
 1. The 'demos' directory contains sample programs for you to review and learn from. These example programs are a great starting point in understanding how to program the MSP430 microcontroller. See the readme in the demo directory on how to compile and run the demo programs.
 2. The 'project' directory should contain the source code for your toy.
-
-## What Should Be In Your Repo
-
-Your project will be graded on the following items:
-* Source code for your toy (only .c, .s and .h files).
-* A README containing a description of your toy, how to compile it, how to run it, and how to use it.
-* A Makefile with appropriate rules to build and clean your toy.
